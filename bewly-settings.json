@@ -243,7 +243,7 @@
   "dockItemsConfig": [
     {
       "page": "Home",
-      "visible": true,
+      "visible": false,
       "openInNewTab": false,
       "useOriginalBiliPage": false
     },
